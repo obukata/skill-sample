@@ -1,0 +1,66 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+var exports = {};
+exports.id = "pages/category/movingParts/scroll";
+exports.ids = ["pages/category/movingParts/scroll"];
+exports.modules = {
+
+/***/ "./pages/category/movingParts/scroll.js":
+/*!**********************************************!*\
+  !*** ./pages/category/movingParts/scroll.js ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ \"next/head\");\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nconst ScrollPage = ()=>{\n    const testFunction = (e)=>{\n        console.log(e);\n    };\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"title\", {\n                    children: \"Scroll\\u30A2\\u30CB\\u30E1\\u30FC\\u30B7\\u30E7\\u30F3\"\n                }, void 0, false, {\n                    fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                    lineNumber: 11,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                lineNumber: 10,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"h-screen pt-32\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                    className: \"relative\",\n                    children: [\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h1\", {\n                            onClick: testFunction,\n                            className: \"js--splitting text-slate-700 font-extrabold text-8xl leading-normal tracking-wider pl-32\",\n                            children: [\n                                \"\\u3072\\u3068\\u3064\\u306E\\u30B5\\u30FC\\u30D3\\u30B9\\u3067\\u3001\",\n                                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"br\", {}, void 0, false, {\n                                    fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                                    lineNumber: 17,\n                                    columnNumber: 13\n                                }, undefined),\n                                \"\\u4E16\\u754C\\u3092\\u5909\\u3048\\u308B\\u3002\"\n                            ]\n                        }, void 0, true, {\n                            fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                            lineNumber: 15,\n                            columnNumber: 11\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                            className: \"absolute top-0 right-24 font-extrabold text-6xl text-slate-300 tracking-wider leading-tight whitespace-nowrap\",\n                            style: {\n                                writingMode: \"vertical-rl\"\n                            },\n                            children: [\n                                \"Changing the world\",\n                                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"br\", {}, void 0, false, {\n                                    fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                                    lineNumber: 21,\n                                    columnNumber: 31\n                                }, undefined),\n                                \"with single service.\"\n                            ]\n                        }, void 0, true, {\n                            fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                            lineNumber: 20,\n                            columnNumber: 11\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                            className: \"flex justify-end mt-24\",\n                            children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                                className: \"w-4/5\",\n                                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"img\", {\n                                    className: \"w-full h-full object-cover\",\n                                    src: \"/images/image02.jpeg\",\n                                    alt: \"\"\n                                }, void 0, false, {\n                                    fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                                    lineNumber: 25,\n                                    columnNumber: 15\n                                }, undefined)\n                            }, void 0, false, {\n                                fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                                lineNumber: 24,\n                                columnNumber: 13\n                            }, undefined)\n                        }, void 0, false, {\n                            fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                            lineNumber: 23,\n                            columnNumber: 11\n                        }, undefined)\n                    ]\n                }, void 0, true, {\n                    fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                    lineNumber: 14,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n                lineNumber: 13,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/obukata/study/0043_skill-sample/30_projects/skill-sample/pages/category/movingParts/scroll.js\",\n        lineNumber: 9,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (ScrollPage);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9jYXRlZ29yeS9tb3ZpbmdQYXJ0cy9zY3JvbGwuanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBO0FBQTRCO0FBQ0Y7QUFFMUIsTUFBTUUsVUFBVSxHQUFHLElBQU07SUFDdkIsTUFBTUMsWUFBWSxHQUFHLENBQUNDLENBQUMsR0FBSztRQUMxQkMsT0FBTyxDQUFDQyxHQUFHLENBQUNGLENBQUMsQ0FBQztLQUNmO0lBQ0QscUJBQ0UsOERBQUNHLEtBQUc7OzBCQUNGLDhEQUFDUCxrREFBSTswQkFDSCw0RUFBQ1EsT0FBSzs4QkFBQyxrREFBYTs7Ozs7NkJBQXNCOzs7Ozt5QkFDdkI7MEJBQ3JCLDhEQUFDRCxLQUFHO2dCQUFDRSxTQUFTLEVBQUMsZ0JBQWdCOzBCQUM3Qiw0RUFBQ0YsS0FBRztvQkFBQ0UsU0FBUyxFQUFDLFVBQVU7O3NDQUN2Qiw4REFBQ0MsSUFBRTs0QkFBQ0MsT0FBTyxFQUFFUixZQUFZOzRCQUFFTSxTQUFTLEVBQUMsMEZBQTBGOztnQ0FBQyw4REFFOUg7OENBQUEsOERBQUNHLElBQUU7Ozs7NkNBQUc7Z0NBQUEsNENBRVI7Ozs7OztxQ0FBSztzQ0FDTCw4REFBQ0MsR0FBQzs0QkFBQ0osU0FBUyxFQUFDLCtHQUErRzs0QkFBQ0ssS0FBSyxFQUFFO2dDQUFFQyxXQUFXLEVBQUUsYUFBYTs2QkFBRTs7Z0NBQUUsb0JBQ2hKOzhDQUFBLDhEQUFDSCxJQUFFOzs7OzZDQUFHO2dDQUFBLHNCQUMxQjs7Ozs7O3FDQUFJO3NDQUNKLDhEQUFDTCxLQUFHOzRCQUFDRSxTQUFTLEVBQUMsd0JBQXdCO3NDQUNyQyw0RUFBQ0YsS0FBRztnQ0FBQ0UsU0FBUyxFQUFDLE9BQU87MENBQ3BCLDRFQUFDTyxLQUFHO29DQUFDUCxTQUFTLEVBQUMsNEJBQTRCO29DQUFDUSxHQUFHLEVBQUMsc0JBQXNCO29DQUFDQyxHQUFHLEVBQUMsRUFBRTs7Ozs7NkNBQUc7Ozs7O3lDQUM1RTs7Ozs7cUNBQ0Y7Ozs7Ozs2QkFDRjs7Ozs7eUJBQ0Y7Ozs7OztpQkFDRixDQUNOO0NBQ0g7QUFFRCxpRUFBZWhCLFVBQVUsRUFBQyIsInNvdXJjZXMiOlsid2VicGFjazovL3NraWxsLXNhbXBsZS8uL3BhZ2VzL2NhdGVnb3J5L21vdmluZ1BhcnRzL3Njcm9sbC5qcz8yMmE4Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBIZWFkIGZyb20gXCJuZXh0L2hlYWRcIlxuaW1wb3J0IFJlYWN0IGZyb20gXCJyZWFjdFwiO1xuXG5jb25zdCBTY3JvbGxQYWdlID0gKCkgPT4ge1xuICBjb25zdCB0ZXN0RnVuY3Rpb24gPSAoZSkgPT4ge1xuICAgIGNvbnNvbGUubG9nKGUpXG4gIH1cbiAgcmV0dXJuIChcbiAgICA8ZGl2PlxuICAgICAgPEhlYWQ+XG4gICAgICAgIDx0aXRsZT5TY3JvbGzjgqLjg4vjg6Hjg7zjgrfjg6fjg7M8L3RpdGxlPlxuICAgICAgPC9IZWFkPlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJoLXNjcmVlbiBwdC0zMlwiPlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInJlbGF0aXZlXCI+XG4gICAgICAgICAgPGgxIG9uQ2xpY2s9e3Rlc3RGdW5jdGlvbn0gY2xhc3NOYW1lPVwianMtLXNwbGl0dGluZyB0ZXh0LXNsYXRlLTcwMCBmb250LWV4dHJhYm9sZCB0ZXh0LTh4bCBsZWFkaW5nLW5vcm1hbCB0cmFja2luZy13aWRlciBwbC0zMlwiPlxuICAgICAgICAgICAg44Gy44Go44Gk44Gu44K144O844OT44K544Gn44CBXG4gICAgICAgICAgICA8YnIgLz5cbiAgICAgICAgICAgIOS4lueVjOOCkuWkieOBiOOCi+OAglxuICAgICAgICAgIDwvaDE+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwiYWJzb2x1dGUgdG9wLTAgcmlnaHQtMjQgZm9udC1leHRyYWJvbGQgdGV4dC02eGwgdGV4dC1zbGF0ZS0zMDAgdHJhY2tpbmctd2lkZXIgbGVhZGluZy10aWdodCB3aGl0ZXNwYWNlLW5vd3JhcFwiIHN0eWxlPXt7IHdyaXRpbmdNb2RlOiAndmVydGljYWwtcmwnIH19PlxuICAgICAgICAgICAgQ2hhbmdpbmcgdGhlIHdvcmxkPGJyIC8+d2l0aCBzaW5nbGUgc2VydmljZS5cbiAgICAgICAgICA8L3A+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJmbGV4IGp1c3RpZnktZW5kIG10LTI0XCI+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInctNC81XCI+XG4gICAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPVwidy1mdWxsIGgtZnVsbCBvYmplY3QtY292ZXJcIiBzcmM9XCIvaW1hZ2VzL2ltYWdlMDIuanBlZ1wiIGFsdD1cIlwiIC8+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgKTtcbn07XG5cbmV4cG9ydCBkZWZhdWx0IFNjcm9sbFBhZ2U7XG4iXSwibmFtZXMiOlsiSGVhZCIsIlJlYWN0IiwiU2Nyb2xsUGFnZSIsInRlc3RGdW5jdGlvbiIsImUiLCJjb25zb2xlIiwibG9nIiwiZGl2IiwidGl0bGUiLCJjbGFzc05hbWUiLCJoMSIsIm9uQ2xpY2siLCJiciIsInAiLCJzdHlsZSIsIndyaXRpbmdNb2RlIiwiaW1nIiwic3JjIiwiYWx0Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/category/movingParts/scroll.js\n");
+
+/***/ }),
+
+/***/ "next/head":
+/*!****************************!*\
+  !*** external "next/head" ***!
+  \****************************/
+/***/ ((module) => {
+
+module.exports = require("next/head");
+
+/***/ }),
+
+/***/ "react":
+/*!************************!*\
+  !*** external "react" ***!
+  \************************/
+/***/ ((module) => {
+
+module.exports = require("react");
+
+/***/ }),
+
+/***/ "react/jsx-dev-runtime":
+/*!****************************************!*\
+  !*** external "react/jsx-dev-runtime" ***!
+  \****************************************/
+/***/ ((module) => {
+
+module.exports = require("react/jsx-dev-runtime");
+
+/***/ })
+
+};
+;
+
+// load runtime
+var __webpack_require__ = require("../../../webpack-runtime.js");
+__webpack_require__.C(exports);
+var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+var __webpack_exports__ = (__webpack_exec__("./pages/category/movingParts/scroll.js"));
+module.exports = __webpack_exports__;
+
+})();
